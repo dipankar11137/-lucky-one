@@ -1,15 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 import Header from './Components/Header/Header';
-import Cart from './Components/Cart/Cart';
+import Shop from './Components/Shop/Shop';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <Header></Header>
-      <Cart></Cart>
+      <Shop></Shop>
     </div>
   );
-}
+};
 
 export default App;
