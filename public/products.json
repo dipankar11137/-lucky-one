@@ -1,92 +1,79 @@
 [
     {
-        "id": "1a",
-        "category": "Men's Sneaker",
-        "name": "gtr-3-pro",
-        "price": 4200,
-        "stock": 20,
-        "ratings": 4,
-        "img": "../images/Hnet.com-image (1).jpg",
-        "quantity": 0
+        "_id": "623ebb70bb211956f324dda9",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "eyeColor": "green",
+        "name": "Dona Mills"
     },
     {
-        "id": "2b",
-        "category": "Men's Sneaker",
-        "name": "Band Watch 3",
-        "price": 250,
-        "stock": 24,
-        "ratings": 3,
-        "img": "../images/Hnet.com-image (2).jpg",
-        "quantity": 0
+        "_id": "623ebb7090a5542b4a9a6c2d",
+        "picture": "http://placehold.it/32x32",
+        "age": 32,
+        "eyeColor": "brown",
+        "name": "Savannah Bowen"
     },
     {
-        "id": "3c",
-        "category": "Men's Sneaker",
-        "name": "Smart Watch",
-        "price": 3320,
-        "stock": 22,
-        "ratings": 4,
-        "img": "../images/Hnet.com-image (3).jpg",
-        "quantity": 0
+        "_id": "623ebb70d2b8c1fa8a77468c",
+        "picture": "http://placehold.it/32x32",
+        "age": 34,
+        "eyeColor": "green",
+        "name": "Carol Mullins"
     },
     {
-        "id": "4d",
-        "category": "Men's Sneaker",
-        "name": "Xiaomi_mi_watch_lite_001_l",
-        "price": 4220,
-        "stock": 12,
-        "ratings": 5,
-        "img": "../images/Hnet.com-image (4).jpg",
-        "quantity": 0
+        "_id": "623ebb7095c7f86e8103823d",
+        "picture": "http://placehold.it/32x32",
+        "age": 31,
+        "eyeColor": "blue",
+        "name": "Ericka Cummings"
     },
     {
-        "id": "5e",
-        "category": "Men's Sneaker",
-        "name": "xiaomi-amazfit-gts-2-mini-2-550x550",
-        "price": 2220,
-        "stock": 15,
-        "ratings": 4,
-        "img": "../images/Hnet.com-image (5).jpg",
-        "quantity": 0
+        "_id": "623ebb70f471bb0745f6e6a2",
+        "picture": "http://placehold.it/32x32",
+        "age": 33,
+        "eyeColor": "blue",
+        "name": "Ortiz Wilcox"
     },
     {
-        "id": "6f",
-        "category": "Men's Sneaker",
-        "name": "xiaomi-mi-home-mijia-quartz-smart-watch",
-        "price": 1020,
-        "stock": 17,
-        "ratings": 4,
-        "img": "../images/Hnet.com-image (6).jpg",
-        "quantity": 0
+        "_id": "623ebb7067d878871f5c25db",
+        "picture": "http://placehold.it/32x32",
+        "age": 21,
+        "eyeColor": "green",
+        "name": "Sheppard Fischer"
     },
     {
-        "id": "7g",
-        "category": "Men's Sneaker",
-        "name": "xiaomi-mi-watch-black-official-malaysia",
-        "price": 5220,
-        "stock": 19,
-        "ratings": 4,
-        "img": "../images/Hnet.com-image (7).jpg",
-        "quantity": 0
+        "_id": "623ebb70438f7b09d79d5d91",
+        "picture": "http://placehold.it/32x32",
+        "age": 26,
+        "eyeColor": "brown",
+        "name": "Janna Morales"
     },
     {
-        "id": "8h",
-        "category": "Men's Sneaker",
-        "name": "sense-sage-gray-device-3qt",
-        "price": 7800,
-        "stock": 15,
-        "ratings": 4,
-        "img": "../images/Hnet.com-image.jpg",
-        "quantity": 0
+        "_id": "623ebb70a3a250a75f8fb14c",
+        "picture": "http://placehold.it/32x32",
+        "age": 28,
+        "eyeColor": "blue",
+        "name": "Hoffman Gutierrez"
     },
     {
-        "id": "9i",
-        "category": "Men's Sneaker",
-        "name": "Smart Watch Black",
-        "price": 3800,
-        "stock": 19,
-        "ratings": 4,
-        "img": "../images/download.jpg",
-        "quantity": 0
+        "_id": "623ebb7086d0e4ee1fd0945d",
+        "picture": "http://placehold.it/32x32",
+        "age": 31,
+        "eyeColor": "green",
+        "name": "Morales Avila"
+    },
+    {
+        "_id": "623ebb702f94c6644412e7a1",
+        "picture": "http://placehold.it/32x32",
+        "age": 24,
+        "eyeColor": "green",
+        "name": "Cecile Maxwell"
+    },
+    {
+        "_id": "623ebb704f8c7663e0ac52c7",
+        "picture": "http://placehold.it/32x32",
+        "age": 25,
+        "eyeColor": "brown",
+        "name": "Luisa Macias"
     }
 ]
