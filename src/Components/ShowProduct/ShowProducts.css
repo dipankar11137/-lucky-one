@@ -1,0 +1,13 @@
+.show-products-container{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: rgb(214, 69, 12);
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.show-products-container img{
+width: 80px;
+border-radius: 50px;
+}
