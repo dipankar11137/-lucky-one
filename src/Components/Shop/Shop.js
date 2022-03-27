@@ -3,6 +3,7 @@ import Product from '../Product/Product';
 import { addToDb, getStorCart } from '../../utilities/fakedb';
 import './Shop.css'
 import Cart from '../Cart/Cart';
+import Answer from '../Answer/Answer';
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
@@ -59,6 +60,7 @@ const Shop = () => {
                 <Cart cart={cart}></Cart>
 
             </div>
+            <Answer></Answer>
         </div>
     );
 };
